@@ -1,2 +1,14 @@
-# FPGA_Traffic_Light
-Traffic light controller implemented in SystemVerilog on a Lattice MachXO2 FPGA using a finite state machine. Includes pedestrian button support. Synthesized with Lattice Diamond.
+# 🚦 Traffic Light Controller – Lattice MachXO2
+
+A simple traffic light controller implemented in Verilog on a Lattice MachXO2 FPGA board.
+
+## 🛠 Features
+- Finite State Machine for red-yellow-green sequencing
+- Pedestrian crossing button input
+- Synthesized and implemented using Lattice Diamond
+
+## 💻 Tools
+- 🖥️ Lattice Diamond
+- 🧠 Verilog
+- 🧪 (Optional) ModelSim for simulation
+

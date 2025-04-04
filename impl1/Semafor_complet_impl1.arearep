@@ -1,0 +1,17 @@
+----------------------------------------------------------------------
+Report for cell semaforFPGA.TECH
+Register bits:  43 of 7485 (0.574%)
+I/O cells:      45
+                                  Cell usage:
+                               cell     count   Res Usage(%)
+                              CCU2D        13          100.0
+                            FD1P3AY         3          100.0
+                            FD1P3IX         7          100.0
+                            FD1S3AX         2          100.0
+                            FD1S3IX        31          100.0
+                                GSR         1          100.0
+                                 IB         3          100.0
+                                INV         1          100.0
+                               LUT4        48          100.0
+                                 OB        42          100.0
+                              TOTAL       151

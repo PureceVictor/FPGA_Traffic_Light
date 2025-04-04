@@ -1,0 +1,53 @@
+NOTE Copyright (C), 1992-2010, Lattice Semiconductor Corporation *
+NOTE All Rights Reserved *
+NOTE DATE CREATED: Wed Jan 15 18:48:12 2025 *
+NOTE DESIGN NAME: semaforFPGA *
+NOTE DEVICE NAME: LCMXO3LF-6900C-6CABGA256 *
+NOTE PIN ASSIGNMENTS *
+NOTE PINS numar[23] : T10 : out *
+NOTE PINS numar[22] : M8 : out *
+NOTE PINS numar[21] : N9 : out *
+NOTE PINS numar[20] : N10 : out *
+NOTE PINS numar[19] : L10 : out *
+NOTE PINS numar[18] : T9 : out *
+NOTE PINS numar[17] : P9 : out *
+NOTE PINS numar[16] : M11 : out *
+NOTE PINS numar[15] : R9 : out *
+NOTE PINS numar[14] : M7 : out *
+NOTE PINS numar[13] : P6 : out *
+NOTE PINS numar[12] : N8 : out *
+NOTE PINS numar[11] : L9 : out *
+NOTE PINS numar[10] : T8 : out *
+NOTE PINS numar[9] : N7 : out *
+NOTE PINS numar[8] : P8 : out *
+NOTE PINS numar[7] : R7 : out *
+NOTE PINS numar[6] : R8 : out *
+NOTE PINS numar[5] : M6 : out *
+NOTE PINS numar[4] : P7 : out *
+NOTE PINS numar[3] : M9 : out *
+NOTE PINS numar[2] : T6 : out *
+NOTE PINS numar[1] : T7 : out *
+NOTE PINS numar[0] : L8 : out *
+NOTE PINS timp[5] : T2 : out *
+NOTE PINS timp[4] : T4 : out *
+NOTE PINS timp[3] : T5 : out *
+NOTE PINS timp[2] : L7 : out *
+NOTE PINS timp[1] : R6 : out *
+NOTE PINS timp[0] : N6 : out *
+NOTE PINS timp_buton[5] : T3 : out *
+NOTE PINS timp_buton[4] : P4 : out *
+NOTE PINS timp_buton[3] : P5 : out *
+NOTE PINS timp_buton[2] : R3 : out *
+NOTE PINS timp_buton[1] : R5 : out *
+NOTE PINS timp_buton[0] : R4 : out *
+NOTE PINS puls : H11 : out *
+NOTE PINS rosu : P16 : out *
+NOTE PINS galben : N15 : out *
+NOTE PINS verde : L13 : out *
+NOTE PINS verde_pietoni : L12 : out *
+NOTE PINS rosu_pietoni : J11 : out *
+NOTE PINS clk : C8 : in *
+NOTE PINS rst : B3 : in *
+NOTE PINS buton : N2 : in *
+NOTE CONFIGURATION MODE: NONE *
+NOTE COMPRESSION: on *

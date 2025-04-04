@@ -1,0 +1,5 @@
+-rem
+-distrce
+-log "Semafor_complet_impl1.log"
+-o "Semafor_complet_impl1.csv"
+-pr "Semafor_complet_impl1.prf"
